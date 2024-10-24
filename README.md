@@ -16,7 +16,6 @@ This project demonstrates a real-time color detection system using a webcam feed
 
 The project captures live video from a webcam and processes it in real-time to detect objects of a specific color (blue by default). It uses a custom function to determine the HSV (Hue, Saturation, Value) color limits, creates a mask to highlight the detected color, and then draws a bounding box around the object.
 
-![demo](path_to_demo_gif)  <!-- Add a demo GIF here if you want -->
 
 ## Features
 
