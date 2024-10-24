@@ -10,7 +10,6 @@ This project demonstrates a real-time color detection system using a webcam feed
 - [Usage](#usage)
 - [Code Explanation](#code-explanation)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ## Overview
 
@@ -82,7 +81,3 @@ pip install opencv-python-headless numpy pillow
 - **Multi-color detection**: Add the ability to detect and track multiple colors simultaneously.
 - **Object tracking**: Implement advanced tracking algorithms for smoother detection.
 - **Improved UI**: Create a graphical user interface to select colors dynamically.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
